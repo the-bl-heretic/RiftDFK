@@ -19,7 +19,7 @@ Inspired by the chaos and creativity of games like Bonelab, RiftDFK gives you co
 # How To Use RiftDFK
 
 - RiftDFK is a simple yet advanced s-u-v-a-t Physics Engine. (Currently in **1.1.8 Beta**)
-- Please go to [the wiki](https://your-link-here.com) to install RiftDFK
+- Please go to [the wiki](https://github.com/the-bl-heretic/RiftDFK/wiki) to install RiftDFK
 
 
 ## Rift Kernel
